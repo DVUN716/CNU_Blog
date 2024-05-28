@@ -1,8 +1,8 @@
 const Resume = () => {
   return (
     <div>
-      <strong>나는 프로젝트 내역</strong>
-      <div>왜 안 됌?</div>
+      <b>실전 코딩 수업 수강</b>
+      <div>2024 1학기 수업</div>
     </div>
   );
 };
